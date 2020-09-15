@@ -1,0 +1,16 @@
+module.exports = {
+    user: "user",
+    team: "team",
+    role: "role",
+    client_partner: "client_partner",
+    project: "project",
+    project_manager: "project_manager",
+    employee:   "employee",
+    team_member: "team_member",
+    on_project: "on_project",
+    task: "task",
+    preceding_task: "preceding_task",
+    activity: "activity",
+    preceding_activity: "preceding_activity",
+    assigned: "assigned",
+};
